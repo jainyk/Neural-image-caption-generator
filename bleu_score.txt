@@ -1,0 +1,60 @@
+['two', 'women', 'wearing', 'black', 'and', 'black']
+['an', 'elderly', 'woman', 'is', 'wearing', 'pink']
+0.7135650476426908
+/n
+['two', 'dogs', 'are', 'running', 'through', 'field']
+['brown', 'and', 'white', 'dog', 'walks', 'behind']
+0.7377879464668811
+/n
+['skier', 'is', 'falling', 'down', 'first']
+['skier', 'flies', 'through', 'the', 'air']
+0.8120224586769673
+/n
+['brown', 'dog', 'is', 'running', 'through', 'the', 'snow']
+['brown', 'dog', 'running', 'on', 'the', 'beach', 'near']
+0.8480536257973762
+/n
+['man', 'in', 'mask', 'is', 'riding', 'bull']
+['brown', 'and', 'white', 'horse', 'runs', 'in']
+0.6756000774035172
+/n
+['young', 'boy', 'blows', 'bubbles', 'in']
+['girl', 'is', 'blowing', 'bubbles', 'heavily']
+0.7989272423094768
+/n
+['snowboarder', 'in', 'the', 'air', 'over', 'snow']
+['boy', 'does', 'jumping', 'trick', 'on', 'snowboard']
+0.7400828044922853
+/n
+['surfer', 'rides', 'wave']
+['group', 'of', 'people']
+0.6930977286178778
+/n
+['little', 'girl', 'in', 'blue', 'bathing', 'suit', 'rides', 'the', 'pool']
+['boy', 'is', 'jumping', 'on', 'an', 'inflatable', 'ring', 'and', 'girl']
+0.721023747812814
+/n
+['man', 'in', 'red', 'shirt', 'and', 'jeans', 'pants']
+['two', 'guys', 'are', 'playing', 'horse', 'shoe', 'together']
+0.6481388934544839
+/n
+['boy', 'in', 'red', 'shirt', 'and', 'mask', 'is']
+['baseball', 'is', 'being', 'thrown', 'at', 'volleyball', 'net']
+0.6865890479690392
+/n
+['man', 'in', 'red', 'shirt', 'and', 'cast', 'smokes', 'cigarette']
+['an', 'older', 'person', 'sitting', 'beside', 'body', 'of', 'water']
+0.7699019277569183
+/n
+['man', 'in', 'black', 'shirt', 'and', 'tie', 'is', 'holding', 'cup']
+['man', 'is', 'standing', 'beside', 'large', 'colorful', 'birdcage', 'containing', 'birds']
+0.6972606648911135
+/n
+['two', 'wheel', 'drive', 'drive', 'in', 'the', 'woods']
+['dirty', 'jeep', 'is', 'stuck', 'in', 'the', 'mud']
+0.7825422900366437
+/n
+['group', 'of', 'people', 'are', 'walking', 'down', 'hill']
+['two', 'cyclists', 'atop', 'hill', 'as', 'seen', 'from']
+0.6443814082270685
+/ns

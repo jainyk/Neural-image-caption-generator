@@ -1,0 +1,60 @@
+['man', 'in', 'blue', 'shirt', 'is', 'standing', 'on', 'the', 'edge', 'of']
+['black', 'dog', 'is', 'running', 'after', 'white', 'dog', 'in', 'the', 'snow']
+0.6729864884660303
+/n
+['man', 'in', 'green', 'shirt']
+['little', 'baby', 'plays', 'croquet']
+0.5491004867761125
+/n
+['woman', 'in', 'red', 'shirt', 'and', 'black', 'hat', 'is', 'holding', 'up', 'her', 'head']
+['brown', 'dog', 'in', 'the', 'snow', 'has', 'something', 'hot', 'pink', 'in', 'its', 'mouth']
+0.7146704964214272
+/n
+['man', 'in', 'red', 'shirt', 'and', 'jeans']
+['brown', 'dog', 'is', 'running', 'along', 'beach']
+0.7135650476426908
+/n
+['dog', 'is', 'running', 'through', 'the', 'grass']
+['black', 'and', 'white', 'dog', 'with', 'red']
+0.7146704964214272
+/n
+['man', 'in', 'black', 'shirt', 'is', 'jumping', 'off', 'the', 'ground']
+['cyclist', 'wearing', 'red', 'helmet', 'is', 'riding', 'on', 'the', 'pavement']
+0.7510499815709779
+/n
+['two', 'men', 'are', 'playing', 'cricket', 'in', 'stadium']
+['man', 'dressed', 'in', 'purple', 'shirt', 'and', 'red']
+0.724724590060866
+/n
+['two', 'girls', 'are', 'playing', 'with', 'toy', 'swords']
+['boy', 'wearing', 'red', 'shirt', 'is', 'running', 'through']
+0.7364279629037999
+/n
+['little', 'boy', 'in', 'red']
+['girl', 'in', 'white', 'dress']
+0.7825422900366437
+/n
+['man', 'in', 'black', 'shirt', 'and', 'khaki', 'pants', 'is', 'airborne']
+['skier', 'in', 'yellow', 'jacket', 'is', 'airborne', 'above', 'the', 'mountains']
+0.6992922471483762
+/n
+['dog', 'is', 'running', 'through', 'the']
+['photographer', 'looks', 'over', 'the', 'hills']
+0.7009305846091448
+/n
+['the', 'basketball', 'player', 'in', 'the', 'red']
+['bunch', 'of', 'girls', 'in', 'cheerleader', 'outfits']
+0.6838911999336902
+/n
+['man', 'in', 'black', 'wetsuit', 'surfs', 'on', 'the', 'beach']
+['blue', 'boat', 'with', 'yellow', 'canopy', 'is', 'floating', 'on']
+0.537284965911771
+/n
+['dog', 'is', 'running', 'through', 'the']
+['dog', 'catches', 'frisbee', 'in', 'midair']
+0.6999271023161167
+/n
+['man', 'in', 'black', 'shirt', 'is', 'standing', 'on', 'the']
+['little', 'old', 'lady', 'sitting', 'next', 'to', 'an', 'advertisement']
+0.6844861471686758
+/n
