@@ -5,7 +5,7 @@
 1 Huge vocab size (8424)  -> Reducing vocab size -> Thresholding : 1652+2<br/>
 2 How to identify start and end of the sentence -> added startseq token and endseq token to the vocabulary <br/>
 3 Training the model -> Model is trained using partial captions <br/>
-4
+
  
 ## Dataset used - Flickr8k dataset
  
